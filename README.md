@@ -21,4 +21,5 @@ TORCHAUDIO_TUTORIAL.ipynb
 pytorch_nn_tutorial_.ipynb
 - https://pytorch.org/tutorials/beginner/nn_tutorial.html
 
-
+audio_classifier_tutorial.ipynb
+- source https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/audio_classifier_tutorial.ipynb

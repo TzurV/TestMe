@@ -23,3 +23,6 @@ pytorch_nn_tutorial_.ipynb
 
 audio_classifier_tutorial.ipynb
 - source https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/audio_classifier_tutorial.ipynb
+
+Building_an_end_to_end_Speech_Recognition_model_in_PyTorch.ipynb
+- https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch

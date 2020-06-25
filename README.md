@@ -26,3 +26,7 @@ audio_classifier_tutorial.ipynb
 
 Building_an_end_to_end_Speech_Recognition_model_in_PyTorch.ipynb
 - https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch
+
+Building_an_end_to_end_Speech_Recognition_model_in_PyTorch-RunOutput.ipynb
+- https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch with saved output 
+

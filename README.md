@@ -30,3 +30,6 @@ Building_an_end_to_end_Speech_Recognition_model_in_PyTorch.ipynb
 Building_an_end_to_end_Speech_Recognition_model_in_PyTorch-RunOutput.ipynb
 - https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch with saved output 
 
+Understanding_Building_an_end_to_end_Speech_Recognition_model_in_PyTorch.ipynb
+- includes a section of my learning 
+
